@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![banner_rbreva_github_cv](https://user-images.githubusercontent.com/54081966/194685015-38cb7560-ac24-41c0-863a-4d2f319a4208.svg)
 
 <!--
 **rbreva/rbreva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
