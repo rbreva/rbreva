@@ -43,3 +43,5 @@ I am a Full Stack Developer 🖥️ from Perú.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rbreva&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
+![rbreva GitHub stats](https://github-readme-stats.vercel.app/api?username=rbreva&show_icons=true&theme=city_lights)
+
