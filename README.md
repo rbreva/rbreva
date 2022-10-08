@@ -17,7 +17,7 @@
 
 ### 👨‍🦲 About Me :
 
-I am a Full Stack Developer 🖥️ from Perú.
+I am a Front-end/Full-stack Developer 🖥️ from Perú.
 
 <img src="https://media.giphy.com/media/Zd0HrBAM2QJwDqF0B4/giphy.gif" width="90">
 
