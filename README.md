@@ -45,3 +45,5 @@ I am a Full Stack Developer 🖥️ from Perú.
 
 ![rbreva GitHub stats](https://github-readme-stats.vercel.app/api?username=rbreva&show_icons=true&theme=city_lights)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbreva&layout=compact)](https://github.com/rbreva/github-readme-stats)
+
