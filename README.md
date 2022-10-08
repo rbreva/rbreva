@@ -13,6 +13,17 @@
   </a>
 </div>
 
+---
+
+### 👨‍🦲 About Me :
+
+I am a Full Stack Developer 🖥️ from Perú.
+
+<img src="https://media.giphy.com/media/Zd0HrBAM2QJwDqF0B4/giphy.gif" width="90">
+
+- 🖥️ : I’m working as a Frontend Develoer and contributing to backend for building web applications.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/r-mauricio-mendoza-huerta/)
 
 <!--
 **rbreva/rbreva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
