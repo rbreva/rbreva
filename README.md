@@ -21,7 +21,7 @@ I am a Front-end/Full-stack Developer 🖥️ from Perú.
 
 <img src="https://media.giphy.com/media/Zd0HrBAM2QJwDqF0B4/giphy.gif" width="90">
 
-- 🖥️ : I’m working as a Frontend Develoer and contributing to backend for building web applications.
+- 🖥️ : I’m working as a Front-end Developer and contributing to backend for building web applications.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ContactMe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/r-mauricio-mendoza-huerta/)
 
